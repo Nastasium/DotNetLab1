@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "cdfab4c1-8950-4eaf-be30-d749807ab35d": {
+      "ProjectGuid": "cdfab4c1-8950-4eaf-be30-d749807ab35d",
+      "DisplayName": "BankLibrary",
+      "ColorIndex": 0
+    },
+    "3561bc60-39f9-449a-91fb-63c2e8e37b60": {
+      "ProjectGuid": "3561bc60-39f9-449a-91fb-63c2e8e37b60",
+      "DisplayName": "ATM_consol",
+      "ColorIndex": 1
+    },
+    "0121ea88-0e3c-41a7-bdd9-bf92e4112a67": {
+      "ProjectGuid": "0121ea88-0e3c-41a7-bdd9-bf92e4112a67",
+      "DisplayName": "ATM_form",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}
